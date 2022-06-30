@@ -1,3 +1,7 @@
+<?php
+
+var_dump(numToEng(133));
+
 function numToEng($n) {
   $num = $n;
   $ones = array(
